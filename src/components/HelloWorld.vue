@@ -27,6 +27,9 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <div class="box">
+    
+    </div>
   </div>
 </template>
 
@@ -54,5 +57,10 @@ li {
 }
 a {
   color: #42b983;
+}
+.box {
+  height: 600px;
+  width: 600px;
+  background-color: red;
 }
 </style>
